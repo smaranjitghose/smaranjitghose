@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hey there, I am Smaranjit Ghose!👋
+A life long learner!
+
 
 <!--
 **smaranjitghose/smaranjitghose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
