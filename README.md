@@ -1,6 +1,6 @@
-# Hey there, I am Smaranjit Ghose!👋
-A life long learner!
-
+<h1 align= "center"><b>Hey there, I am Smaranjit Ghose!</b></h1>
+<p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p>
+<h1 align= "center"><b>A life long learner! Looking forward to collaborate and build amazing products for the world!</b></h1>
 
 <!--
 **smaranjitghose/smaranjitghose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
