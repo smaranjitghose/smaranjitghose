@@ -1,8 +1,5 @@
 <p align="center"><img width=100% src="https://github.com/smaranjitghose/smaranjitghose/blob/master/assets/Profile_Intro.gif"></p>
 
-> "Developer who dabbles in data and algorithms to build fantastic tools and applications for the world!"
-
-
 ## 🛠 Primary Tech Stack 
 
 ### Programming Languages
