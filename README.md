@@ -75,6 +75,7 @@ My digital explorations have led to discoveries in:
 ```python
 current_status = {
     "learning": ["Generative AI Systems", "Rust for Performance", "System Design Patterns"],
+    "mentoring": ["Early-career developers", "LLM-based research teams", "Student tech communities"],
     "building": ["AI-powered developer tools", "Educational content platforms", "Open source communities"],
     "exploring": ["Edge ML deployment", "Multi-modal AI systems", "Serverless architectures"]
 }
